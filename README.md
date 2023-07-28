@@ -1,1 +1,1 @@
-Prototype Morse Code for Boombatag
+Morse Code Prototype
