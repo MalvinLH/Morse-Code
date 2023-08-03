@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -45,6 +44,15 @@ public class ArrowButtons : MonoBehaviour
         if (index >= 0 && index < freqList.Count)
             return float.Parse(freqList[index].name);
             
+        return 0f;
+    }
+
+    public float GetCurrentFrequency()
+    {
+        if (freqIndex >= 0 && freqIndex < freqList.Count)
+        {
+            return float.Parse(freqList[freqIndex].name);
+        }
         return 0f;
     }
 
