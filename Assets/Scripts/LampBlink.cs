@@ -24,6 +24,7 @@ public class LampBlink : MonoBehaviour
     {
         audioSource.Stop();
         randomWord = wordVariations[Random.Range(0, wordVariations.Length)];
+        Debug.Log(randomWord);
         StartBlinking();
     }
 
