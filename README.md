@@ -2,7 +2,7 @@
 This is one of the modules used as Schematics NLC 2023 Quarter Final's Game. Players need to guess the frequency based on a list of corresponding words and their frequencies. There will also be a Morse code list for each letter.
 
 <h4>Morse code list for each letter</h4>
-A  ・ー・・
+<p>A  ・ー・・</p>
 B   ー・・・・ー
 C   ・・・・ー・
 D   ・・ーー
