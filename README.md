@@ -1,5 +1,5 @@
 <h1>Morse Code Module</h1>
-This is one of the modules used as Schematics NLC 2023 Quarter Final's Game. Players need to guess the frequency based on a list of corresponding word and its frequency. There will also be a Morse code list for each letter.
+This is one of the modules used in the Schematics NLC 2023 Quarter Final game. Players need to guess the frequency based on a list of corresponding word and its frequency. There will also be a Morse code list for each letter.
 
 <h4>Morse code list for each letter. Note that dot represents short blink and dash represents long blink.</h4>
 <p>A  ・ー・・</p>
